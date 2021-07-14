@@ -1,0 +1,46 @@
+SpringML
+INVOICE
+# 67546756
+From:
+Anthony Spencer
+Bill To:
+Date:
+Jan 14, 2019
+JayShetty
+Payment Terms:
+qwerty
+Due Date:
+Jul 31, 2019
+Balance Due:
+Rs 3,039.84
+Item
+Quantity
+Rate
+Amount
+Preventive Maintenance
+1
+Rs 34,657.78
+Rs 34,657.78
+Automated Customer Support
+1
+Rs 24,768.86
+Rs 24,768.86
+Automated Order Agent
+1
+Rs 30,098.00
+Rs 30,098.00
+Adverse Event Reporting
+1
+Rs 23,876.13
+Rs 23,876.13
+Subtotal:
+Rs 113,400.77
+Tax (8.5%):
+Rs 9,639.07
+Total:
+Rs 123,039.84
+Amount Paid:
+Rs 120,000.00
+Terms:
+Paid by Cash. Cancellation within 7 days.
+SpringMLINVOICE#67546756From:AnthonySpencerBillTo:Date:Jan14,2019JayShettyPaymentTerms:qwertyDueDate:Jul31,2019BalanceDue:Rs3,039.84ItemQuantityRateAmountPreventiveMaintenance1Rs34,657.78Rs34,657.78AutomatedCustomerSupport1Rs24,768.86Rs24,768.86AutomatedOrderAgent1Rs30,098.00Rs30,098.00AdverseEventReporting1Rs23,876.13Rs23,876.13Subtotal:Rs113,400.77Tax(8.5%):Rs9,639.07Total:Rs123,039.84AmountPaid:Rs120,000.00Terms:PaidbyCash.Cancellationwithin7days.
