@@ -1,0 +1,1 @@
+{'Total:': 'Rs 123,039.84', 'Date:': 'Jan 14, 2019', 'Subtotal:': 'Rs 113,400.77', 'Tax (8.5%):': 'Rs 9,639.07', 'Amount Paid:': 'Rs 120,000.00', 'Due Date:': 'Jul 31, 2019', 'Payment Terms:': 'qwerty', 'Balance Due:': 'Rs 3,039.84', 'Bill To:': 'Jay Shetty', 'Terms:': 'Paid by Cash. Cancellation within 7 days.', 'Anthony Spencer': 'From:'}
